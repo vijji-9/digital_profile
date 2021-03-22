@@ -13,7 +13,6 @@
      * Item 3a
      * Item 3b
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
 
-http://github.com-automatic![GitHub](http://github.com)
+http://github.com - automatic![GitHub](http://github.com)
