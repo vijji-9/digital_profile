@@ -65,7 +65,3 @@ Extra Section, Call it Whatever You Want
      * English (native speaker)
      * Telugu
      * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
