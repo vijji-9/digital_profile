@@ -16,3 +16,8 @@
 ![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
 
 http://github.com - automatic![GitHub](http://github.com)
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Conent column 2
