@@ -2,9 +2,9 @@ Vijaya Lakshmi
 =============
 
 -------------------     ----------------------------
-Andhra Prades                   9248187701vijji@gmail@.com
+Andhra Prades                   9248180701vijji@gmail@.com
 Guntur                          
-India                           7981482394
+India                           7981482384
 -------------------     ----------------------------
 
 Education
